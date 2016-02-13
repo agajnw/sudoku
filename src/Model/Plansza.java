@@ -15,15 +15,15 @@ public class Plansza {
 	/**
 	 * sciezka pliku z planszami na poziomie latwym
 	 */
-	private final String latwe= "latwe.txt";
+	private final String latwe= "plansze/latwe.txt";
 	/**
 	 * sciezka pliku z planszami na poziomie srednim
 	 */
-	private final String srednie= "srednie.txt";
+	private final String srednie= "plansze/srednie.txt";
 	/**
 	 * sciezka pliku z planszami na poziomie trudnym
 	 */
-	private final String trudne= "trudne.txt";
+	private final String trudne= "plansze/trudne.txt";
 	/**
 	 * tablica przechowujaca elementy planszy poczatkowej
 	 */
